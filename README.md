@@ -13,43 +13,10 @@ I don’t just write code — I **understand why it works** and **how to make it
 
 ---
 
-## 🧠 Mindset
-- 🧩 *Understand first, code second*
-- 🛠️ *Build → break → fix → repeat*
-- 📈 *Small improvements compound*
-
----
-
-## 🧰 Tech I work with
-**Languages & Tools**
-- JavaScript / TypeScript
-- HTML, CSS, Tailwind CSS
-- React / Next.js
-- Git & GitHub
-
-**Currently exploring**
+## Currently exploring
 - Backend fundamentals
 - Performance optimization
 - Better UI/UX structure
-
----
-
-## 🔥 Projects over promises
-I believe projects show skill better than words.  
-Every repository here represents:
-- A problem I tried to solve
-- A concept I learned deeply
-- A mistake I fixed and learned from
-
-> If it’s public, it’s intentional.
-
----
-
-## 📌 What makes me different
-- I ask *why*, not just *how*
-- I care about structure and clarity
-- I don’t rush — I refine
-- I enjoy learning difficult concepts
 
 ---
 
