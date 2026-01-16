@@ -5,14 +5,6 @@ I don’t just write code — I **understand why it works** and **how to make it
 
 ---
 
-## 🚀 What I’m focused on
-- Writing **clean, readable, and maintainable code**
-- Learning how things work **under the hood**
-- Building projects instead of just watching tutorials
-- Improving logic, structure, and performance
-
----
-
 ## Currently exploring
 - Backend fundamentals
 - Performance optimization
