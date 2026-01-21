@@ -9,8 +9,6 @@ I’m a **curious, detail-obsessed developer** who enjoys turning ideas into cle
 - Performance optimization
 - Better UI/UX structure
 
-  https://github-readme-stats.hackclub.dev/api/wakatime?username=24846&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue-green
-
 ---
 
 ## 🤝 Let’s connect
