@@ -1,4 +1,4 @@
-# 👋 Hey there, I build things that actually work.
+# 👋 Hey there.
 
 I’m a **curious, detail-obsessed developer** who enjoys turning ideas into clean, functional, and scalable projects.
 
@@ -11,7 +11,6 @@ I’m a **curious, detail-obsessed developer** who enjoys turning ideas into cle
 
 ---
 
-## 🤝 Let’s connect
 If you like **clean code**, **real learning**, or **well-thought-out projects**,  
 you’ll probably like what I build.
 
