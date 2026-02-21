@@ -4,13 +4,6 @@ I’m a **curious, detail-obsessed developer** who enjoys turning ideas into cle
 
 ---
 
-## Currently exploring
-- Backend fundamentals
-- Performance optimization
-- Better UI/UX structure
-
----
-
 If you like **clean code**, **real learning**, or **well-thought-out projects**,  
 you’ll probably like what I build.
 
