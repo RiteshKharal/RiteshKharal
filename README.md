@@ -1,11 +1,10 @@
-# 👋 Hey there.
+👋 Hi, I build things.
 
-I’m a **curious developer** who enjoys turning ideas into clean, functional, and scalable projects.
+Curious developer turning ideas into clean, practical, and scalable projects.
 
----
+I enjoy solving problems, learning fast, and shipping real solutions.
 
-⭐ Feel free to explore, fork, or learn from my repositories.
+🛠 Tech Stack
+<p> <img src="https://skillicons.dev/icons?i=react" height="40" /> <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> <img src="https://skillicons.dev/icons?i=javascript" height="40" /> <img src="https://skillicons.dev/icons?i=prisma" height="40" /> <img src="https://skillicons.dev/icons?i=figma" height="40" /> </p>
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=24846&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dracula)
-
-
+⭐ Explore the repos, fork what helps, and build something cool.
