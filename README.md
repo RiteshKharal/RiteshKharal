@@ -1,6 +1,6 @@
 # 👋 Hey there.
 
-I’m a **curious, detail-obsessed developer** who enjoys turning ideas into clean, functional, and scalable projects.
+I’m a **curious developer** who enjoys turning ideas into clean, functional, and scalable projects.
 
 ---
 
