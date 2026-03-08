@@ -5,7 +5,7 @@ Curious developer learning and improving everyday.
 
 ### 🛠 Tech Stack
 
-<p align = 'center'>
+<p align = 'center' gap=3>
   <img src="https://skillicons.dev/icons?i=react" height="40" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
