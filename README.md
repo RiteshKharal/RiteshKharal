@@ -9,7 +9,7 @@ Curious developer focused on learning, building, and improving every day.
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,javascript,prisma,figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,javascript,prisma" height="40" />
 </p>
 
 
